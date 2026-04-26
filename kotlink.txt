@@ -1,0 +1,11 @@
+nombre: Deicy Mayerly zuluaga 
+cprreo: zuluagamauricio025@gmail.com 
+git status 
+git add .
+git  commit -m ""[Dañadido datos"
+git push github master 
+   
+
+
+
+
